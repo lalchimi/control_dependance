@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="jar.AppTest" time="0.332" tests="1" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="jar.AppTest" time="0.287" tests="0" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="22"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -15,7 +15,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="FR"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-22\bin"/>
-    <property name="sun.java.command" value="C:\Users\lalch\AppData\Local\Temp\surefire12208328522466957709\surefirebooter13480363126188481465.jar C:\Users\lalch\AppData\Local\Temp\surefire12208328522466957709 2024-07-31T15-46-35_585-jvmRun1 surefire2918803940330780186tmp surefire_010714288377169013990tmp"/>
+    <property name="sun.java.command" value="C:\Users\lalch\AppData\Local\Temp\surefire12245701041810664915\surefirebooter3536834576024054310.jar C:\Users\lalch\AppData\Local\Temp\surefire12245701041810664915 2024-07-31T15-56-29_372-jvmRun1 surefire11320660604804054861tmp surefire_01668412156243800387tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\lalch\Documents\control_dependance\target\test-classes;C:\Users\lalch\Documents\control_dependance\target\classes;C:\Users\lalch\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\lalch\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;C:\Users\lalch\.m2\repository\com\fasterxml\jackson\core\jackson-databind\2.13.0\jackson-databind-2.13.0.jar;C:\Users\lalch\.m2\repository\com\fasterxml\jackson\core\jackson-annotations\2.13.0\jackson-annotations-2.13.0.jar;C:\Users\lalch\.m2\repository\com\fasterxml\jackson\core\jackson-core\2.13.0\jackson-core-2.13.0.jar;C:\Users\lalch\.m2\repository\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;C:\Users\lalch\.m2\repository\org\testng\testng\7.4.0\testng-7.4.0.jar;C:\Users\lalch\.m2\repository\com\beust\jcommander\1.78\jcommander-1.78.jar;C:\Users\lalch\.m2\repository\org\webjars\jquery\3.5.1\jquery-3.5.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -30,7 +30,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\lalch\AppData\Local\Temp\surefire12208328522466957709\surefirebooter13480363126188481465.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\lalch\AppData\Local\Temp\surefire12245701041810664915\surefirebooter3536834576024054310.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="22.0.1+8-16"/>
@@ -58,5 +58,4 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="66.0"/>
   </properties>
-  <testcase name="shouldAnswerWithTrue on shouldAnswerWithTrue(jar.AppTest)" classname="jar.AppTest" time="0.003"/>
 </testsuite>

@@ -14,7 +14,6 @@ import jar.business.Person;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
         Person person = new Person("paul");
         String personString = convertToJson(person);
         System.out.println("Json :" + personString);
